@@ -1,0 +1,7 @@
+{
+  "name": "VoltStar Code",
+  "description": "AI-powered C++ engineering studio with real-time code generation, interactive wiring diagrams, brainstorming chat, and syntax error diagnostics. Powered by VoltStar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
